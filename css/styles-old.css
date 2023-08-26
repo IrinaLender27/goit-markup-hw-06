@@ -14,7 +14,7 @@
   display: flex;
   align-items: center;
 }
-.header .list {
+.nav-list {
   display: flex;
   gap: 40px;
 }
